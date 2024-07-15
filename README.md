@@ -37,48 +37,44 @@ Initial data exploration involves filling missing descriptions and summarizing b
 
 This visualization shows the proportion of video titles that contain capitalized words. It uses a pie chart to depict the percentage of titles with and without capitalized words.
 
-![Title Contains Capitalized Word?](images/title_capitalized_word_pie_chart.png)
+![Title Contains Capitalized Word?](Images/title_capitalized_word_pie_chart.png)
 
 ### Title Length Distribution
 
 This histogram illustrates the distribution of title lengths across all videos. It helps identify common title lengths and the spread of this attribute.
 
-![Title Length Distribution](images/title_length_histogram.png)
+![Title Length Distribution](Images/title_length_histogram.png)
 
 ### Views vs. Title Length
 
 A scatter plot showing the relationship between the number of views a video receives and the length of its title. This can indicate whether shorter or longer titles tend to get more views.
 
-![Views vs. Title Length](images/views_vs_title_length_scatter_plot.png)
+![Views vs. Title Length](Images/views_vs_title_length_scatter_plot.png)
 
 ### Title Length Boxplot
 
 This boxplot provides a summary of the title length distribution, highlighting the median, quartiles, and potential outliers.
 
-![Title Length Boxplot](images/title_length_boxplot.png)
+![Title Length Boxplot](Images/title_length_boxplot.png)
 
 ### Count of Capitalized Words in Titles
 
 A count plot representing the number of videos whose titles contain capitalized words. It helps in understanding the commonality of capitalized words in titles.
 
-![Count of Capitalized Words in Titles](images/capitalized_word_count_plot.png)
+![Count of Capitalized Words in Titles](Images/capitalized_word_count_plot.png)
 
 ### Views by Capitalized Words in Titles
 
 A bar plot showing the average number of views for videos with and without capitalized words in their titles. This visualization helps in analyzing whether capitalized words in titles affect view counts.
 
-![Views by Capitalized Words in Titles](images/views_by_capitalized_word_bar_plot.png)
+![Views by Capitalized Words in Titles](Images/views_by_capitalized_word_bar_plot.png)
 
 ### Correlation Analysis
 
 A heatmap displaying the correlation between different numeric attributes in the dataset. This helps in understanding the relationships between various features like views, likes, dislikes, etc.
 
-![Correlation Analysis](images/correlation_heatmap.png)
+![Correlation Analysis](Images/correlation_heatmap.png)
 
 ## Conclusion
 
 This project provides a detailed analysis of YouTube trending videos, exploring the impact of title characteristics on view counts and other metrics. The visualizations offer valuable insights into what makes a video trend.
-
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements or additional analyses.
