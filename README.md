@@ -5,7 +5,7 @@ This project involves analyzing the YouTube trending videos dataset to uncover i
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Dataset](#dataset) 
+- [Dataset](#dataset)  
 - [Data Exploration](#data-exploration)
 - [Visualizations](#visualizations)
   - [Title Contains Capitalized Word?](#title-contains-capitalized-word)
