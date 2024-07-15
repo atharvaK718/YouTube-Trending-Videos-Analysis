@@ -16,8 +16,7 @@ This project involves analyzing the YouTube trending videos dataset to uncover i
   - [Views by Capitalized Words in Titles](#views-by-capitalized-words-in-titles)
   - [Correlation Analysis](#correlation-analysis)
 - [Conclusion](#conclusion)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
